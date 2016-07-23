@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.socialdev.greenagro"
+    versionCode = "10"
+    version     = "0.1.5" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>GreenAgro</name>
+
+  <description>
+     Green, dal campo al consumatore !
+  </description>
+
+  <platform name="ios" />
+  <platform name="android" />
+  
+  <author href="https://greenagro.org" email="info@greenagro.it">
+      Alessandro Cindolo
+  </author>
+
+</widget>
